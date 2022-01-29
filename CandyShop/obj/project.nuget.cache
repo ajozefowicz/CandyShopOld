@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZJPnsLcgGgLBwHw19tY390/Gfg3sB6hg2MH5rOeK0DXWZ2J+QvW9IKnEyOiGH7SttBixMajcAKyOnxhw/kf2AA==",
+  "success": true,
+  "projectFilePath": "D:\\Desktop\\Programowanie_projekty\\CandyShop\\CandyShop\\CandyShop.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Anna\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}
