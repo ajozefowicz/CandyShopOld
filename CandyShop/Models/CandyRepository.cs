@@ -40,7 +40,7 @@ namespace CandyShop.Models
 
         public Candy GetCandyById(int candyId)
         {
-            throw new NotImplementedException();
+            return GetAllCandies.FirstOrDefault(c => c.CandyId == candyId);
         }
     }
 }
