@@ -37,9 +37,9 @@ namespace CandyShop
             {
 
                 endpoints.MapControllerRoute(
-                    name:"defoult",
-                    pattern:"{controller=Home}/{action=Index}/{id?}"
-                    )
+                    name: "defoult",
+                    pattern: "{controller=Home}/{action=Index}/{id?}"
+                    );
             });
         }
     }
